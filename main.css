@@ -1,0 +1,8 @@
+.centrartexto{
+text-align: center;
+}
+
+.centrarobejtos{
+    display: flex;
+    flex-direction: row-reverse;
+}
